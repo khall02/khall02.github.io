@@ -1,6 +1,6 @@
 ---
 title: "Koko Hall"
-image: "KH_headshot.jpg"
+image: "Headshot.png"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/koko-hall-1bb20a80/"
