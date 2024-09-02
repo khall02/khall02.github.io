@@ -3,36 +3,38 @@ title: "Koko Hall"
 image: "KH_headshot.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/koko-hall-1bb20a80/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/khall02"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "lhall66@jh.edu"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+Koko Hall has research interests in epigenetics and neurodevelopmental disorders. Her current research focuses on evaluating the performance of epigenetic clocks in pediatric populations when measuring the rate of biological aging. She has skills in statistical analysis using R, epidemiologic methods, the implementation of randomized controlled trials, and regulatory work involving the IRB and FDA.
+
+
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
 
-Ph.D. in Computer Science | September 2009 - May 2014
+ScM in Genetic Epidemiology | August 2023-Present 
 
-**The University of California, Berkeley** | Berkeley, CA
+**University of Washington** | Seattle, WA
 
-B.S. in Computer Science | September 2005 - May 2009
+B.S. in Psychology (Honors Program) | September 2015 - March 2019
+
+
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**National Human Genomics Research Institute ** | Immersive Summer Program for Research in Genomics (iSPRinG) Intern | June 2024-August 2024
 
-**Netflix** | Research Scientist | June 2014 - December 2017
+
+**Johns Hopkins Bloomberg School of Public Health** | Graduate Research Assistant | November 2023 - Present
+
+**Seattle Children's Hospital, Department of Neurosurgery** | Clinical Research Coordinator III | July 2021-August 2023 
